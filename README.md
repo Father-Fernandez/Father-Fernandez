@@ -1,16 +1,17 @@
 # 💻 Tech Stack:
 ## Languages 
-Rust
-Python 
-C
+Rust<br>
+Python<br> 
+C/C++<br>
 
----
+
 ## Frameworks
 Spacetimedb
 
 
 ##  About Me:
-Good day, I'm honestly just a guy like the rest of you trying to get more and more into the coding world 👋🏾<br><br>I've developed a love for Programming, Poetry, Connecting with others and learning <br><br> My goals are to get into the habit of meaningfully contributing code and/or working in teams i could gain knowledge from
+Good day, I'm honestly just a guy like the rest of you trying to get more and more into the coding world 👋🏾<br>I've developed a love for Programming, Poetry, Connecting with others and learning <br> My goals are to get into the habit of meaningfully contributing code and/or working in teams i could gain knowledge from
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Father-Fernandez&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
