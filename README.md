@@ -1,12 +1,10 @@
 # 💻 Tech Stack:
 ## Languages 
 Rust<br>
+Bash<br>
 Python<br> 
+Postgres<br>
 C/C++<br>
-
-
-## Frameworks
-Spacetimedb
 
 
 ##  About Me:
