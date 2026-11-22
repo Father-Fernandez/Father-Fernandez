@@ -18,7 +18,7 @@ Good day, I'm honestly just a guy like the rest of you trying to get more and mo
 ![](https://nirzak-streak-stats.vercel.app/?user=Father-Fernandez&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Father-Fernandez&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Father-Fernandez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🌐 Socials:
